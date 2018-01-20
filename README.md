@@ -1,5 +1,4 @@
-# Hscan
-Hscan-Win-Gui
+# Hscan-Win-Gui
 
 # HScan v1.20 使用说明
 
@@ -61,4 +60,3 @@ Hscan-Win-Gui
      HScan v0.20      <Nov 01,2002>  内部测试版.
 
 ____________________________________________________
-by uhhuhy <Mar 05,2003>
